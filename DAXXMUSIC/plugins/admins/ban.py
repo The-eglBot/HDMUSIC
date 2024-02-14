@@ -39,13 +39,13 @@ async def ban_user(user_id, first_name, admin_id, admin_name, chat_id, reason, t
     try:
         await app.ban_chat_member(chat_id, user_id)
     except ChatAdminRequired:
-        msg_text = "Ban rights? Nah, I'm just here for the digital high-fives 🙌\nGive me ban rights! 😡🥺"
+        msg_text = "plz give me ban rights 😡🥺"
         return msg_text, False
     except UserAdminInvalid:
         msg_text = "I wont ban an admin bruh!!"
         return msg_text, False
     except Exception as e:
-        if user_id == 6711389550:
+        if user_id == 1993013048:
             msg_text = "why should i ban myself? sorry but I'm not stupid like you"
             return msg_text, False
         
@@ -133,7 +133,7 @@ async def unmute_user(user_id, first_name, admin_id, admin_name, chat_id):
             )
         )
     except ChatAdminRequired:
-        msg_text = "Mute rights? Nah, I'm just here for the digital high-fives 🙌\nGive me unmute rights! 😡🥺"
+        msg_text = "plz give me Mute rights! 😡🥺"
         return msg_text
     except Exception as e:
         msg_text = f"opps!!\n{e}"
@@ -158,10 +158,10 @@ async def ban_command_handler(client, message):
         if member.privileges.can_restrict_members:
             pass
         else:
-            msg_text = "You dont have permission to ban someone"
+            msg_text = "LOL 😂 UHH DONT HAVE BAN RIGHTS"
             return await message.reply_text(msg_text)
     else:
-        msg_text = "You dont have permission to ban someone"
+        msg_text = "LOL 😂"
         return await message.reply_text(msg_text)
 
     # Extract the user ID from the command or reply
