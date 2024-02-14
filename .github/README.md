@@ -20,7 +20,7 @@
 **※ ᴛᴇxᴛ ʙᴏᴛ ➛ [‌⚘ ʜᴅ ᴍᴜsɪᴄ ₰](https://t.me/HD_VCBOT)**
 
 
- <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=❤️+𝐉𝐀𝐘+𝐒𝐇𝐑𝐄𝐄+𝐑𝐀𝐌+🚩">
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=❤️+EDIT+BY+AVI+OP+😎">
 
 
 <h3 align="center">
