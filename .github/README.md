@@ -1,26 +1,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+𝗛𝗔𝗣𝗣𝗬+𝗡𝗘𝗪+𝗬𝗘𝗔𝗥+❷⓿❷❹+🧋">
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=❤️+𝐉𝐀𝐘+𝐒𝐇𝐑𝐄𝐄+𝐑𝐀𝐌+🚩">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h2 align="center">
-    ᥫᩣ ─「 𝗡𝗬𝗞𝗔𝗔 𝗠𝗨𝗦𝗜𝗖 」─ ᥫᩣ
+    ᥫᩣ ─「 𝐇𝐃 𝐌𝐔𝐒𝐈𝐂 」─ ᥫᩣ
 
  ⚘ ʜᴇʀᴏᴋᴜ + ᴠᴘs ⚘
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0786&width=420&lines=Ⰶ+ʜᴇʏ+ᴄᴜᴛɪᴇ+ᴅᴇᴘʟᴏʏ+ʙᴏᴛ+ᴏɴ+ʜᴇʀᴏᴋᴜ+Ⰶ;Ⰶ+ɪғ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ʜᴀᴠᴇ+ʜᴇʀᴏᴋᴜ+ᴀᴄᴄᴏᴜɴᴛ+Ⰶ;Ⰶ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ᴀʟsᴏ+ᴏɴ+ᴠᴘs+sᴇʀᴠᴇʀ+Ⰶ;Ⰶ+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+ʀᴏʏ+ᴇᴅɪᴛx+Ⰶ">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0786&width=420&lines=Ⰶ+ʜᴇʏ+ᴄᴜᴛɪᴇ+ᴅᴇᴘʟᴏʏ+ʙᴏᴛ+ᴏɴ+ʜᴇʀᴏᴋᴜ+Ⰶ;Ⰶ+ɪғ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ʜᴀᴠᴇ+ʜᴇʀᴏᴋᴜ+ᴀᴄᴄᴏᴜɴᴛ+Ⰶ;Ⰶ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ᴀʟsᴏ+ᴏɴ+ᴠᴘs+sᴇʀᴠᴇʀ+Ⰶ;Ⰶ+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+ᴀᴠɪ+ᴏᴘ+Ⰶ">
 <p align="center">
   <img src="https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg">
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💌+ɪ+ᴀᴍ+⚘+ɴʏᴋᴀᴀ+ᴍᴜsɪᴄ+₰+ᴀɴᴅ+ɪ+ʜᴀᴠᴇ+sᴘᴇᴄɪᴀʟ+ғᴜᴛᴜʀᴇs+🧋;💌+ғʀɪsᴛ+ʏᴏᴜ+ғᴏʀᴋ+ᴛʜɪs+ʀᴇᴘᴏ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ʏᴏᴜʀ+ʙᴏᴛ+🧋">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=💌+ɪ+ᴀᴍ+⚘+ʜᴅ+ᴍᴜsɪᴄ+₰+ᴀɴᴅ+ɪ+ʜᴀᴠᴇ+sᴘᴇᴄɪᴀʟ+ғᴜᴛᴜʀᴇs+ᴊᴜsᴛ+ᴅᴇᴘʟᴏʏ+ɴᴅ+ᴇɴᴊᴏʏ🧋;💌+ғʀɪsᴛ+ʏᴏᴜ+ғᴏʀᴋ+ᴛʜɪs+ʀᴇᴘᴏ+ᴛʜᴇɴ+ᴅᴇᴘʟᴏʏ+ʏᴏᴜʀ+ʙᴏᴛ+🧋">
 
 </h2>
 
-**※ ᴛᴇxᴛ ʙᴏᴛ ➛ [‌⚘ ɴ ʏ ᴋ ᴀ ᴀ ☂ ᴍ ᴜ s ɪ ᴄ ₰](https://t.me/Nykaaxbot)**
+**※ ᴛᴇxᴛ ʙᴏᴛ ➛ [‌⚘ ʜᴅ ᴍᴜsɪᴄ ₰](https://t.me/HD_VCBOT)**
 
 
- <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🧋+𝗛𝗔𝗣𝗣𝗬+𝗡𝗘𝗪+𝗬𝗘𝗔𝗥+❷⓿❷❹+🧋">
+ <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=❤️+𝐉𝐀𝐘+𝐒𝐇𝐑𝐄𝐄+𝐑𝐀𝐌+🚩">
 
 
 <h3 align="center">
@@ -30,9 +30,9 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tinaarobot/ROYMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=white&width=420&lines=💥+ɪғ+ᴀɴʏ+ᴇʀʀᴏʀ+ᴛʜᴇɴ+sᴇɴᴅ+ᴍᴇ+ᴇʀʀᴏʀ+ɪɴ+ʀᴏʏ+ᴇᴅɪᴛx+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=white&width=420&lines=💥+ɪғ+ᴀɴʏ+ᴇʀʀᴏʀ+ᴛʜᴇɴ+sᴇɴᴅ+ᴍᴇ+ᴇʀʀᴏʀ+ɪɴ+ᴀᴠɪ+ᴏᴘ+...">
 <p align="center">
-<a href="https://telegram.me/THE_Friendz"><img src="https://img.shields.io/badge/-๛DM TO RoY EdiTX%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Chatting_empire"><img src="https://img.shields.io/badge/-๛DM TO avi op%20☆-FF00FF.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
